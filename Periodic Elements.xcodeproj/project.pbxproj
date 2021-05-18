@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3F83901B265440E800CA6478 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F83901A265440E700CA6478 /* SwiftyJSON.swift */; };
 		3FFC2EBF2648E76600DE14C7 /* Periodic_ElementsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFC2EBE2648E76600DE14C7 /* Periodic_ElementsApp.swift */; };
 		3FFC2EC12648E76600DE14C7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FFC2EC02648E76600DE14C7 /* ContentView.swift */; };
 		3FFC2EC32648E77100DE14C7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FFC2EC22648E77100DE14C7 /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F83901A265440E700CA6478 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		3FFC2EBB2648E76600DE14C7 /* Periodic Elements.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Periodic Elements.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FFC2EBE2648E76600DE14C7 /* Periodic_ElementsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Periodic_ElementsApp.swift; sourceTree = "<group>"; };
 		3FFC2EC02648E76600DE14C7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -56,6 +58,7 @@
 				3FFC2EC02648E76600DE14C7 /* ContentView.swift */,
 				3FFC2EC22648E77100DE14C7 /* Assets.xcassets */,
 				3FFC2EC72648E77100DE14C7 /* Info.plist */,
+				3F83901A265440E700CA6478 /* SwiftyJSON.swift */,
 				3FFC2EC42648E77100DE14C7 /* Preview Content */,
 			);
 			path = "Periodic Elements";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F83901B265440E800CA6478 /* SwiftyJSON.swift in Sources */,
 				3FFC2EC12648E76600DE14C7 /* ContentView.swift in Sources */,
 				3FFC2EBF2648E76600DE14C7 /* Periodic_ElementsApp.swift in Sources */,
 			);
